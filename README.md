@@ -5,8 +5,8 @@ This project detects gender (man/woman) using a Convolutional Neural Network (CN
 
 ## Files
 
-- `train.py` – Trains the CNN model using image data (man/woman).
-- `test.py` – Uses webcam to detect faces and predict gender in real time.
+- `trainer.py` – Trains the CNN model using image data (man/woman).
+- `VideoTester.py` – Uses webcam to detect faces and predict gender in real time.
 
 
 ## Requirements
